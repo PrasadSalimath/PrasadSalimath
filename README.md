@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Data Science and everything linked to it.
+🌱 I’m currently learning Data Science and everything correlated to it.
 <!--
 **PrasadSalimath/PrasadSalimath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
